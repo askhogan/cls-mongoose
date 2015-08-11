@@ -24,6 +24,6 @@
     "shimmer": "^1"
   },
   "peerDependencies": {
-    "mongoose": "^4"
+    "mongoose": "^3"
   }
 }
